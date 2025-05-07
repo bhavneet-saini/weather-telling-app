@@ -4,7 +4,7 @@ A sleek and responsive weather application built using *HTML, **CSS, and **JavaS
 
 ## Features
 
-- Search weather by country name
+- Search weather by country name or city name
 - Displays:
   - Temperature (in °C)
   - Humidity
